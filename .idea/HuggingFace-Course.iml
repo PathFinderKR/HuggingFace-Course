@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.idea/copilot/chatSessions" />
       <excludeFolder url="file://$MODULE_DIR$/NLP/results" />
     </content>
-    <orderEntry type="jdk" jdkName="gymnasium" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="torch-env" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
